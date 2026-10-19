@@ -1,5 +1,5 @@
-import {FIDUSBOOK_VERSION} from "@fiduswriter/books-document/exporter/native"
-import {getMissingChapterData} from "@fiduswriter/books-document/exporter/tools"
+import {FIDUSBOOK_VERSION} from "@fiduswriter/books/exporter/native"
+import {getMissingChapterData} from "@fiduswriter/books/exporter/tools"
 import {ShrinkFidus} from "@fiduswriter/document/exporter/native/shrink"
 import {ZipFidus} from "@fiduswriter/document/exporter/native/zip"
 import {addAlert, gettext} from "fwtoolkit"

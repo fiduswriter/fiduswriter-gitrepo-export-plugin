@@ -1,4 +1,4 @@
-import {getMissingChapterData} from "@fiduswriter/books-document/exporter/tools"
+import {getMissingChapterData} from "@fiduswriter/books/exporter/tools"
 import {Dialog, addAlert, escapeText, gettext} from "fwtoolkit"
 import {createChapterLoader} from "../../books/adapters/chapter-loader"
 import {
