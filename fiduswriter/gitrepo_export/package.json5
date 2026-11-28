@@ -1,6 +1,6 @@
 {
     dependencies: {
-        "@fiduswriter/books": "^0.2.1",
+        "@fiduswriter/books": "^0.2.2",
         "@fiduswriter/frontend": "^0.1.65",
         "@fiduswriter/pandoc": "^0.1.4",
         "jszip": "^3.10.1"
